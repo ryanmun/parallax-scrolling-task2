@@ -21,33 +21,33 @@ body{
     transition: 0.1s;
 }
 .banner .bg-1{
-    background-image: url('https://github.com/HoanghoDev/parallax_scroll/blob/main/img/0.png?raw=true');
+    background-image: url('https://github.com/ryanmun/parallax-scrolling-task2/blob/main/0.png?raw=true');
 }
 .banner .bg-2{
-    background-image: url('https://github.com/HoanghoDev/parallax_scroll/blob/main/img/1.png?raw=true');
+    background-image: url('https://github.com/ryanmun/parallax-scrolling-task2/blob/main/1.png?raw=true');
 }
 .banner .bg-3{
-    background-image: url('https://github.com/HoanghoDev/parallax_scroll/blob/main/img/2.png?raw=true');
+    background-image: url('https://github.com/ryanmun/parallax-scrolling-task2/blob/main/2.png?raw=true');
 }
 .banner .bg-4{
-    background-image: url('https://github.com/HoanghoDev/parallax_scroll/blob/main/img/3.png?raw=true');
+    background-image: url('https://github.com/ryanmun/parallax-scrolling-task2/blob/main/3.png?raw=true');
 }
 
 
 .banner .bg-5{
-    background-image: url('https://github.com/HoanghoDev/parallax_scroll/blob/main/img/4.png?raw=true');
+    background-image: url('https://github.com/ryanmun/parallax-scrolling-task2/blob/main/4.png?raw=true');
 }
 .banner .bg-6{
-    background-image: url('https://github.com/HoanghoDev/parallax_scroll/blob/main/img/5.png?raw=true');
+    background-image: url('https://github.com/ryanmun/parallax-scrolling-task2/blob/main/5.png?raw=true');
 }
 .banner .bg-7{
-    background-image: url('https://github.com/HoanghoDev/parallax_scroll/blob/main/img/6.png?raw=true');
+    background-image: url('https://github.com/ryanmun/parallax-scrolling-task2/blob/main/6.png?raw=true');
 }
 .banner .bg-8{
-    background-image: url('https://github.com/HoanghoDev/parallax_scroll/blob/main/img/7.png?raw=true');
+    background-image: url('https://github.com/ryanmun/parallax-scrolling-task2/blob/main/7.png?raw=true');
 }
 .banner .bg-9{
-    background-image: url('https://github.com/HoanghoDev/parallax_scroll/blob/main/img/8.png?raw=true');
+    background-image: url('https://github.com/ryanmun/parallax-scrolling-task2/blob/main/8.png?raw=true');
 }
 .banner  h1{
     position: relative;
